@@ -11,3 +11,4 @@
 11. sudo apt-get install build-essential
 12. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 13. eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+14. run "brew doctor"
