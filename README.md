@@ -1,1 +1,1 @@
-# This repository is built to code programming problems on a topic by topic basis.
+# This repository is built to code programming problems on a topic by topic basis specially on DSA.
